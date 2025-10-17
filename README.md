@@ -13,7 +13,6 @@ See video:
 [![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/private/1f3faee47d8d5a4d1f0b554b5cc1185f/)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
-### [https://patreon.com/pmaxus](https://patreon.com/pmaxus)
 
 ## Installation
 Download and follow the installer instructions

@@ -16,6 +16,12 @@ See video:
 
 ## Installation
 Download and follow the installer instructions
+#### for Tahoe
+``` text
+http://thisismypage.ru/git/World-of-Tanks-tahoe.dmg
+```
+
+#### for <= Sequoia
 ``` text
 http://thisismypage.ru/git/World-of-Tanks.dmg
 ```

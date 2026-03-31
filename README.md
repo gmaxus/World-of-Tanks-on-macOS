@@ -9,19 +9,12 @@ This wrapper allows you to play World of Tanks without virtual Windows in 1 clic
 
 See video:
 
-[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://youtu.be/xoikzbRcfIU)
-[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/private/1f3faee47d8d5a4d1f0b554b5cc1185f/)
+#### [YouTube](ttps://youtu.be/xoikzbRcfIU)
 
-### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+#### [Rutube](https://rutube.ru/video/1f3faee47d8d5a4d1f0b554b5cc1185f/)
 
 ## Installation
-Download and follow the installer instructions
-#### for Tahoe
-``` text
-http://thisismypage.ru/git/World-of-Tanks-tahoe.dmg
-```
+temporary unavailable
 
-#### for <= Sequoia
-``` text
-http://thisismypage.ru/git/World-of-Tanks.dmg
-```
+
+### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)

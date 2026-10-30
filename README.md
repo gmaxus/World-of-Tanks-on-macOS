@@ -4,7 +4,7 @@ This wrapper allows you to play World of Tanks without virtual Windows in 1 clic
 
 See video:
 
-#### [YouTube](ttps://youtu.be/xoikzbRcfIU)
+#### [YouTube](https://youtu.be/xoikzbRcfIU)
 
 #### [Rutube](https://rutube.ru/video/1f3faee47d8d5a4d1f0b554b5cc1185f/)
 
